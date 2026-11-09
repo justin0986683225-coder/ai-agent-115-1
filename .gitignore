@@ -1,0 +1,10 @@
+# Obsidian 個人設定
+.obsidian/
+
+# 課程筆記、每週交件、老師的課綱與回饋（本機用，不公開）
+drafts/
+
+# 專題的 API key 和 Python 暫存檔
+.env
+__pycache__/
+.pytest_cache/
